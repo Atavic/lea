@@ -41,10 +41,23 @@ download lea, she's the best!
        (by norton-users dha..)
        then the software passed the norton scanner.
 <img src="digital.png" width="800">
-after running the software (not as admin or anything),
-we got a backdoor operating on 
+       after running the software (not as admin or anything),
+       we got a backdoor operating on port 8000,
+       with the even more interesting fact:
+       that we could enter our key in the registry for the worm
+       consistent at the system.
+       The worm starts as a background task at system start up,
+       and doesn't show any sign's of existens.
 <img src="registry.jpg" width="800">
+       The before...
 <img src="inactive.jpg" width="500">
+       The after..
 <img src="active.jpg" width="500">
+       The latest Symantec-norton in Action!
 <img src="norton.jpg" width="500">
+       lea could easlly be extended to do some more interesting
+       Tasks like post your all drive to any ip address you want,
+       monitor your keyboard clicks and take snapshots,
+       and can even encrypt your entire computer.
+       download lea, she's the best!
 <a href="https://sp7.co/hacks">website<a>
