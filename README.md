@@ -76,4 +76,4 @@ download lea, she's the best!
        at the win10 that was maid to allow software like mcAfee,
        google cloud, etc' make changes to the CurrentVersion\\Run section
        at the registry.
-<a href="https://sp7.co/hacks">website<a>
+<a href="https://sp7.co/manifest">website<a>
