@@ -8,7 +8,8 @@ and to register at the windows current config.
 download lea, she's the best!
 
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ![](gif.gif)
 <img src="digital.png" width="800">
 <img src="registry.jpg" width="800">
