@@ -34,7 +34,15 @@ download lea, she's the best!
 </table>
 
 ![](gif.gif)
+# description
+       23/5/2017- we downloaded the latests Symantec-norton at nr.tn/2qeLkiE
+       at first the anti-virus didnt want to activate the software but after getting 
+       the software signed, and downloaded about a- thousand times 
+       (by norton-users dha..)
+       then the software passed the norton scanner.
 <img src="digital.png" width="800">
+after running the software (not as admin or anything),
+we got a backdoor operating on 
 <img src="registry.jpg" width="800">
 <img src="inactive.jpg" width="500">
 <img src="active.jpg" width="500">
