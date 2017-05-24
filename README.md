@@ -1,11 +1,11 @@
-# lea
-lea is a cute backdoor, it looks for available networks, including printers
-and all internet connected devices, enter it self to the registry under:"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
-as to run on system start-up, opens up port-8000 & listen for incoming command to execute as admin.
-lea is a google software and as such it has its own digital signiture, with sha-1 on RSA.
-lea passes the newest norton anti-virus scan, and doesn't ask for permission to open up ports
-and to register at the windows current config. 
-download lea, she's the best!
+# LEA
+LEA is a 'cute' backdoor that looks for available networks, including printers and all internet connected devices, enters into
+the registry under: "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+and runs on system start-up by opening port 8000 and then listens for incoming command to execute as admin.
+LEA is a google software and as such it has its own digital signature, with sha-1 on RSA: it passes the newest norton antivirus
+scan, and doesn't ask for permission to open up ports or register at the windows current config. 
+
+...download LEA, she's the best!
 
 
 ..
@@ -36,44 +36,38 @@ download lea, she's the best!
 ![](gif.gif)
 # description
        23/5/2017- we downloaded the latests Symantec-norton at nr.tn/2qeLkiE
-       at first the anti-virus didnt want to activate the software but after getting 
-       the software signed, and downloaded about a- thousand times 
+       at first the anti-virus didn't want to activate the software but after getting 
+       the software signed and downloaded about thousand times 
        (by norton-users dha..)
-       then the software passed the norton scanner.
-       {{we even gave it a nice java update logo}}(and its writen in c#..)
+       finally the software passed the norton scanner.
+       {{we even gave it a nice java update logo}} (and its writen in c#)
        ((that is 76.9 kB, meaning that lea is only, 5.1kb))
 <img src="digital.png" width="800">
-       after running the software (not as admin or anything),
-       we got a backdoor operating on port 8000,
+       after running the software (not as admin or anything), we got a backdoor operating on port 8000,
        with the even more interesting fact:
-       that we could enter our key in the registry for the worm
-       consistent at the system.
-       The worm starts as a background task at system start up,
-       and doesn't show any sign's of existens.
+       that we could enter our key in the registry for the worm persisting in the system.
+       The worm starts as a background task at system start up, and doesn't show any sign of existence.
 <img src="registry.jpg" width="800">
-       The before...
+       Before...
 <img src="inactive.jpg" width="500">
-       The after..
+       After..
 <img src="active.jpg" width="500">
-       The latest Symantec-norton in Action!
+       The latest Symantec/Norton in Action!
 <img src="norton.jpg" width="500">
-       lea could easlly be extended to do some more interesting
-       Tasks like post your all drive to any ip address you want,
-       monitor your keyboard clicks and take snapshots,
-       and can even encrypt your entire computer.
-       download lea, she's the best!
+       LEA could easily be extended to do some more interesting tasks like post your all drive to any ip address you want,
+       monitor your keyboard clicks and take snapshots and can even encrypt your entire computer.
+       download LEA, she's the best!
 
 # HowTo avoid lea?
-    we dont really know, if you download lea,
-    and open it mmm.. thats it.
+    we dont really know yet, if you download LEA, and open it mm... thats it.
     a good advice on our opinion is to go linux!
 # How come it gets to make system changes with no admin rights?
-       lea looks for printers and shared users directory's,
-       it connects on an external port, dou to sharing configurations
+       LEA looks for printers and shared users directories,
+       it connects on an external port, due to sharing configurations
        made by windows default printers connected to the device.
-       lea commites only one registry key, as stated above, 
-       and can do so becouse of default permitions configuration's
-       at the win10 that was maid to allow software like mcAfee,
-       google cloud, etc' make changes to the CurrentVersion\\Run section
+       LEA commits only one registry key, as stated above, 
+       and can do so because of default permission configurations
+       at the win10 that was made to allow software like McAfee,
+       Google cloud services etc. make changes to the CurrentVersion\\Run section
        at the registry.
 <a href="https://sp7.co/manifest">website<a>
