@@ -1,7 +1,3 @@
 # lea
-<html>
-<iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/HXV9iDYDnjg?autoplay=1&loop=1"
-frameborder="0" allowfullscreen></iframe>
-</html>
+![Elevation of Privilege on Windows 7 x86 before the patch](gifs.com/gif/leax80-zmkoAY)
 <a href="https://sp7.co/hacks">website<a>
