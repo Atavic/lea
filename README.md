@@ -12,9 +12,9 @@ scan, and doesn't ask for permission to open up ports or register at the windows
        DOCID: v118291851_NortonM_Retail_1_en_us
        Operating System: Windows, Mac OS X, Android, iOS
        Last modified: 05/11/2017
+       
        WINDOWS 10 HOME 2016 10.0*
-       HP Pavilion Desktop - 510-p020
-       Intel® Core™ i5-4460S Processor
+       HP Pavilion Desktop - 510-p020 Intel® Core™ i5-4460S Processor
 
 <table>
 <tr>
@@ -44,21 +44,25 @@ scan, and doesn't ask for permission to open up ports or register at the windows
        with the even more interesting fact:
        that we could enter our key in the registry for the worm persisting in the system.
        The worm starts as a background task at system start up, and doesn't show any sign of existence.
+       
 <img src="registry.jpg" width="800">
        Before...
+       
 <img src="inactive.jpg" width="500">
-       After..
+       After...
+       
 <img src="active.jpg" width="500">
        The latest Symantec/Norton in Action!
+       
 <img src="norton.jpg" width="500">
        LEA could easily be extended to do some more interesting tasks like post your all drive to any ip
        address you want, monitor your keyboard clicks and take snapshots and can even encrypt your entire computer.
        Download LEA, she's the best!
 
-# HowTo avoid lea?
+# How To avoid LEA?
     we dont really know yet, if you download LEA, and open it mm... thats it.
     a good advice on our opinion is to go linux!
-# How come it gets to make system changes with no admin rights?
+# How does it make system changes with no admin rights?
        LEA looks for printers and shared users directories, it connects on an external port,
        due to sharing configurations made by windows default printers connected to the device.
        LEA commits only one registry key, as stated above, and can do so because of default
