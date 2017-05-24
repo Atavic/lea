@@ -6,10 +6,9 @@ lea is a google software and as such it has its own digital signiture, with sha-
 lea passes the newest norton anti-virus scan, and doesn't ask for permission to open up ports
 and to register at the windows current config. 
 download lea, she's the best!
-
-
+<html>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+</html>
 ![](gif.gif)
 <img src="digital.png" width="800">
 <img src="registry.jpg" width="800">
