@@ -60,4 +60,17 @@ download lea, she's the best!
        monitor your keyboard clicks and take snapshots,
        and can even encrypt your entire computer.
        download lea, she's the best!
+# HowTo avoid lea?
+    we dont really know, if you download lea,
+    and open it mmm.. thats it.
+    a good advice on our opinion is to go linux!
+# How come it gets to make system changes with no admin rights?
+       lea looks for printers and shared users directory's,
+       it connects on an external port, dou to sharing configurations
+       made by windows default printers connected to the device.
+       lea commites only one registry key, as stated above, 
+       and can do so becouse of default permitions configuration's
+       at the win10 that was maid to allow software like mcAfee,
+       google cloud, etc' make changes to the CurrentVersion\\Run section
+       at the registry.
 <a href="https://sp7.co/hacks">website<a>
