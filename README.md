@@ -40,6 +40,8 @@ download lea, she's the best!
        the software signed, and downloaded about a- thousand times 
        (by norton-users dha..)
        then the software passed the norton scanner.
+       {{we even gave it a nice java update logo}}(and its writen in c#..)
+       ((that is 76.9 kB, meaning that lea is only, 5.1kb))
 <img src="digital.png" width="800">
        after running the software (not as admin or anything),
        we got a backdoor operating on port 8000,
