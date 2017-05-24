@@ -62,6 +62,7 @@ download lea, she's the best!
        monitor your keyboard clicks and take snapshots,
        and can even encrypt your entire computer.
        download lea, she's the best!
+
 # HowTo avoid lea?
     we dont really know, if you download lea,
     and open it mmm.. thats it.
