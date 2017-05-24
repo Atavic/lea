@@ -10,13 +10,13 @@ download lea, she's the best!
 
 ..
 
-Tested on:
-DOCID: v118291851_NortonM_Retail_1_en_us
-Operating System: Windows, Mac OS X, Android, iOS
-Last modified: 05/11/2017
-WINDOWS 10 HOME 2016 10.0*
-HP Pavilion Desktop - 510-p020
-Intel® Core™ i5-4460S Processor
+       Tested on:
+       DOCID: v118291851_NortonM_Retail_1_en_us
+       Operating System: Windows, Mac OS X, Android, iOS
+       Last modified: 05/11/2017
+       WINDOWS 10 HOME 2016 10.0*
+       HP Pavilion Desktop - 510-p020
+       Intel® Core™ i5-4460S Processor
 
 <table>
 <tr>
